@@ -6,7 +6,7 @@ If you ended up here it means either you have attended the first course on data 
 - [A brief introduction to Matplotlib](01_matplotlib.md)
 
 ### Contacts
-If you have any request, please contact me at the andrea<dot>giussani<at>unibocconi<dot>it
+If you have any request, please contact me at the andreadotgiussaniatunibocconidotit
 
 ### How to cite this material
 ```tex
