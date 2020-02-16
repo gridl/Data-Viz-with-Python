@@ -3,6 +3,7 @@ description: This blog has been created to help you in becoming the new data viz
 
 theme: jekyll-theme-hacker
 #theme: jekyll-theme-cayman
+show_downloads: false
 github:
   is_project_page: false
  
