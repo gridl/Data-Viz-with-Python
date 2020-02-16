@@ -5,10 +5,10 @@ description: This blog has been created to help you in becoming the new data viz
 github:
   is_project_page: false
  
-# share-links-active:
-#   twitter: true
-#   facebook: true
-#   linkedin: true
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
 
 theme: jekyll-theme-hacker
 #theme: jekyll-theme-cayman
