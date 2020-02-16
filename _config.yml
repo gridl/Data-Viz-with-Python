@@ -1,15 +1,18 @@
 title: A new Blog on Data Vizualization with Python
 description: This blog has been created to help you in becoming the new data viz ninja! Hosted by @andreagiussani
 
-show_downloads: false
+#show_downloads: false
 github:
   is_project_page: false
  
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  
+# share-links-active:
+#   twitter: true
+#   facebook: true
+#   linkedin: true
+
+theme: jekyll-theme-hacker
+#theme: jekyll-theme-cayman
+
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
@@ -23,7 +26,5 @@ social-network-links:
   rss: true
   email: "andrea.giussani@unibocconi.it"
   github: andreagiussani
-  
-theme: jekyll-theme-hacker
-#theme: jekyll-theme-cayman
+ 
 
