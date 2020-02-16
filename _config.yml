@@ -2,10 +2,7 @@
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
-  
-# Enable or disable the site search
-search_enabled: true
 
-# Set the search token separator for hyphenated-word search:
-search_tokenizer_separator: /[\s/]+/
+plugins:
+  - jekyll-feed
 
