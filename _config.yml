@@ -10,8 +10,8 @@ share-links-active:
   facebook: true
   linkedin: true
 
-theme: jekyll-theme-hacker
-#theme: jekyll-theme-cayman
+
+theme: jekyll-theme-cayman
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
