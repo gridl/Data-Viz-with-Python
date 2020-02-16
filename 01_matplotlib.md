@@ -1,4 +1,4 @@
-# Data Visualization with Python
+# Data Visualization with Python - Lecture 1
 ### Instructor: Andrea Giussani (andrea.giussani@unibocconi.it)
 
 ## Introduction to MatplotLib
