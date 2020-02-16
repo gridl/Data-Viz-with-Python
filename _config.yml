@@ -1,3 +1,10 @@
 theme: jekyll-theme-hacker
 github:
   is_project_page: false
+  
+# Enable or disable the site search
+search_enabled: true
+
+# Set the search token separator for hyphenated-word search:
+search_tokenizer_separator: /[\s/]+/
+
