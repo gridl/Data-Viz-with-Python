@@ -5,13 +5,13 @@ description: This blog has been created to help you in becoming the new data viz
 github:
   is_project_page: false
  
-# share-links-active:
-#   twitter: true
-#   facebook: true
-#   linkedin: true
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
 
-theme: jekyll-theme-hacker
-#theme: jekyll-theme-cayman
+
+theme: jekyll-theme-cayman
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
