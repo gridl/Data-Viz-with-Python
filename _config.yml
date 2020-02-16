@@ -5,7 +5,9 @@ description: This blog has been created to help you in becoming the new data viz
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
-
-plugins:
-  - jekyll-feed
+ 
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
 
