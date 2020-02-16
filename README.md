@@ -10,7 +10,7 @@ If you have any request, please contact me at the andrea<dot>giussani<at>unibocc
 
 ### How to cite this material
 ```tex
-@book{giussani2020,
+@misc{giussani2020,
 	TITLE="Data Visualization with Python",
 	AUTHOR="Andrea Giussani",
 	YEAR="2020",
